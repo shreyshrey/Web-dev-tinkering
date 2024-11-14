@@ -1,0 +1,8 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Temple base -->
+    <rect x="50" y="200" width="200" height="50" fill="#800000"></rect>
+    <!-- Temple top -->
+    <polygon points="150,100 100,200 200,200" fill="#d2691e"></polygon>
+    <!-- Temple decorations -->
+    <circle cx="150" cy="120" r="10" fill="#ffd700"></circle>
+</svg>
